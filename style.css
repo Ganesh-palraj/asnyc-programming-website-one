@@ -1,0 +1,14 @@
+
+.body-container{
+    padding-left: 25px;
+    border: 10px;
+    justify-content: space-between;
+    margin-top: 45px;
+}
+.btn{
+    height:fit-content;
+}
+.card{
+    background : linear-gradient (0deg, blue, green 40%, red);
+    background-color: aqua;
+}
